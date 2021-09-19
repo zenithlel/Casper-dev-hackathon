@@ -8,4 +8,6 @@
 <h3> Testing The contract </h3>
 `Testing The contract with make test, Casper v1.3.3`
 
+`The simple contract Stores Hello World`
+
 ![cargo-casper test](https://user-images.githubusercontent.com/83914557/133927516-52c3943f-de7f-4011-a7e7-b3f26e9e21b2.png)
