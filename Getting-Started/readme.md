@@ -11,3 +11,33 @@
 `The simple contract Stores Hello World`
 
 ![cargo-casper test](https://user-images.githubusercontent.com/83914557/133927516-52c3943f-de7f-4011-a7e7-b3f26e9e21b2.png)
+
+
+    deploy contract by using ‘npm run start:atomic’
+
+    Demonstrate key management concepts by modifying the client in the Multi-Sig tutorial to address one of the additional scenarios
+
+    Write scenario & changed the code
+
+    run the client
+
+    Learn to transfer tokens to an account on the Casper Testnet. Check out this documentation.
+
+    Make a transfer
+
+    Check transfer status
+
+    Learn to Delegate and Undelegate on the Casper Testnet. Check out these instructions.
+
+delegate:
+https://testnet.cspr.live/deploy/a683e5cbd3151ae2fb68560006f9651de40fe68cc590cf6d88050eaa97c4773b
+undelegate:
+https://testnet.cspr.live/deploy/a8c0440ff1fe96156e31c6c63b53e69077516deeafbf76815bd07ad6d762cd7c
+delegate
+
+
+
+undelegate
+
+
+
