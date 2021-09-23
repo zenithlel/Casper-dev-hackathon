@@ -11,3 +11,8 @@
 `The simple contract Stores Hello World`
 
 ![cargo-casper test](https://user-images.githubusercontent.com/83914557/133927516-52c3943f-de7f-4011-a7e7-b3f26e9e21b2.png)
+
+<h3> Viewing Faucet account details </h3>
+
+
+![viewing faucet account details](https://user-images.githubusercontent.com/83914557/134438432-9e4646e9-5dce-4091-a05d-48dcbe624ace.png)
