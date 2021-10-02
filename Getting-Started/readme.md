@@ -26,5 +26,10 @@ ________________________________________________________________________________
 
 `Tutorial: https://docs.casperlabs.io/en/latest/dapp-dev-guide/tutorials/multi-sig/index.html`
 
+`In the following screenshot of the terminal, we viewed The faucet account after starting the nctl network
 
-![viewing faucet account details](https://user-images.githubusercontent.com/83914557/134438432-9e4646e9-5dce-4091-a05d-48dcbe624ace.png)
+We can see the deployment weigth in "deployment" as 1.
+
+The same goes for key management , "keymanagement: 1"`
+![nctl-view-faucet-account](https://user-images.githubusercontent.com/83914557/135731758-7391c5e7-ae72-4f09-a617-94fb82755351.png)
+
