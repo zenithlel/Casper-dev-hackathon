@@ -12,6 +12,15 @@
 
 ![cargo-casper test](https://user-images.githubusercontent.com/83914557/133927516-52c3943f-de7f-4011-a7e7-b3f26e9e21b2.png)
 
+<h2> Complete One of existing tutorials </h2>
+--------------------------------------------------
+
+`I chose to complete the Erc20 implementation tutorial`
+
+![casper-er20-1](https://user-images.githubusercontent.com/83914557/135723826-9f72c07d-ae7f-4372-8800-3d7f8ac47497.png)
+![casper-erc20-2](https://user-images.githubusercontent.com/83914557/135723827-ad3c375e-fb66-4616-87f6-09d87c88bf28.png)
+
+
 <h3> Viewing Faucet account details </h3>
 
 
