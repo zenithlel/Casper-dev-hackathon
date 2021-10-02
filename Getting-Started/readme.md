@@ -21,7 +21,10 @@
 ![casper-erc20-2](https://user-images.githubusercontent.com/83914557/135723827-ad3c375e-fb66-4616-87f6-09d87c88bf28.png)
 
 
-<h3> Viewing Faucet account details </h3>
+<h3> Demonstrate key management concepts by modifying the client in the Multi-Sig tutorial to address one of the additional scenarios </h3>
+________________________________________________________________________________________________________________________
+
+`Tutorial: https://docs.casperlabs.io/en/latest/dapp-dev-guide/tutorials/multi-sig/index.html`
 
 
 ![viewing faucet account details](https://user-images.githubusercontent.com/83914557/134438432-9e4646e9-5dce-4091-a05d-48dcbe624ace.png)
